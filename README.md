@@ -29,7 +29,8 @@ This project is built with .
 - Tailwind CSS
 
 ## home page
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/0ea8a8c2-4c11-413e-9bc7-0239bbf30383" />
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/0f88e9a9-289c-4fb0-96c1-4861701326b0" />
+
 
 
 
