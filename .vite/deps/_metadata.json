@@ -1,0 +1,70 @@
+{
+  "hash": "70f17596",
+  "configHash": "c04319bd",
+  "lockfileHash": "c7ad70ce",
+  "browserHash": "f7a9c7be",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "6a790ff8",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "220d199e",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "5ed80610",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "f2ddddfc",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "f5a51afd",
+      "needsInterop": false
+    },
+    "@tanstack/react-query": {
+      "src": "../../node_modules/@tanstack/react-query/build/modern/index.js",
+      "file": "@tanstack_react-query.js",
+      "fileHash": "7abb238b",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "a0513525",
+      "needsInterop": true
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "4a1f1e28",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-KAYRWOVB": {
+      "file": "chunk-KAYRWOVB.js"
+    },
+    "chunk-RCM3CTRQ": {
+      "file": "chunk-RCM3CTRQ.js"
+    },
+    "chunk-CCTTI3TB": {
+      "file": "chunk-CCTTI3TB.js"
+    },
+    "chunk-FOIKYQQY": {
+      "file": "chunk-FOIKYQQY.js"
+    }
+  }
+}
